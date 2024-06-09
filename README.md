@@ -4,4 +4,6 @@
 
 *código em produção
 
-# trecho editado no github
+#trecho editado no github
+
+*uso do comando git fetch
